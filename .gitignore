@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.db
+PRIVATE_TEACHER_NOTES.txt
+.DS_Store

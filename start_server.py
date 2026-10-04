@@ -4,7 +4,7 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent
-WEB=ROOT/'web'; DB=ROOT/'english_with_filipe.db'; PORT=8000
+WEB=ROOT; DB=ROOT/'englishmetfilipe.db'; PORT=8000
 
 def hashpw(pw,salt=None):
     salt=salt or secrets.token_hex(16)
@@ -25,8 +25,14 @@ def db():
 c=db()
 def seed(email,name,pw,role):
     if not c.execute('select id from users where email=?',(email,)).fetchone(): c.execute('insert into users(name,email,password,role) values(?,?,?,?)',(name,email,hashpw(pw),role)); c.commit()
-seed('teacher@englishwithfilipe.com','Filipe','Filipe2026!','teacher')
-seed('student@englishwithfilipe.com','Demo Student','English123!','student')
+TEACHER_EMAIL=os.getenv('EWF_TEACHER_EMAIL','').strip().lower()
+TEACHER_PASSWORD=os.getenv('EWF_TEACHER_PASSWORD','')
+DEMO_EMAIL=os.getenv('EWF_DEMO_EMAIL','').strip().lower()
+DEMO_PASSWORD=os.getenv('EWF_DEMO_PASSWORD','')
+if TEACHER_EMAIL and TEACHER_PASSWORD:
+    seed(TEACHER_EMAIL,'Filipe',TEACHER_PASSWORD,'teacher')
+if DEMO_EMAIL and DEMO_PASSWORD:
+    seed(DEMO_EMAIL,'Demo Student',DEMO_PASSWORD,'student')
 
 def recs(errors):
     mapping={'meaning':'Review meaning in context and contrast near-synonyms.','vocabulary':'Build a small active vocabulary set and use each word in two original sentences.','usage':'Practice the language in different sentence patterns and communicative situations.','precision':'Compare related words and choose based on context and register.','grammar':'Revisit the grammar point, model the structure, then make the student produce it in three new contexts.'}
@@ -38,8 +44,18 @@ def recs(errors):
 class Handler(SimpleHTTPRequestHandler):
     def translate_path(self,path):
         if path.startswith('/api/'): return ''
-        p=path.split('?',1)[0]
-        return str((WEB/p.lstrip('/')).resolve()) if (WEB/p.lstrip('/')).exists() else str(WEB/'index.html')
+        p=urlparse(path).path
+        target=(WEB/p.lstrip('/')).resolve()
+        root=WEB.resolve()
+        try:
+            target.relative_to(root)
+        except ValueError:
+            return str(root/'__missing__')
+        if target.exists() and target.is_file():
+            return str(target)
+        if Path(p).suffix:
+            return str(root/'__missing__')
+        return str(root/'index.html')
     def json(self,code,obj):
         raw=json.dumps(obj,ensure_ascii=False).encode(); self.send_response(code); self.send_header('Content-Type','application/json; charset=utf-8'); self.send_header('Content-Length',str(len(raw))); self.send_header('Cache-Control','no-store, no-cache, must-revalidate'); self.end_headers(); self.wfile.write(raw)
     def end_headers(self):
@@ -108,7 +124,7 @@ class Handler(SimpleHTTPRequestHandler):
         return self.json(404,{'error':'Not found'})
 
 def main():
-    os.chdir(WEB); print(f'English with Filipe — HTTP server: http://localhost:{PORT}')
-    print('Teacher credentials are stored only in PRIVATE_TEACHER_NOTES.txt.')
+    os.chdir(WEB); print(f'ENGLISHMETFILIPE — HTTP server: http://localhost:{PORT}')
+    print('Teacher credentials are provided through environment variables.')
     ThreadingHTTPServer(('0.0.0.0',PORT),Handler).serve_forever()
 if __name__=='__main__': main()
