@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "noun",
+    "title_en": "Noun",
+    "title_pt": "Substantivo",
+    "title_ro": "Substantiv",
+    "level": "A1",
+    "category": "parts of speech",
+    "definition": {
+      "en": "A word that names a person, place, thing, idea, or activity.",
+      "pt": "Palavra que nomeia pessoa, lugar, coisa, ideia ou atividade.",
+      "ro": "Cuvânt care denumește o persoană, loc, lucru, idee sau activitate."
+    },
+    "examples": [
+      "The teacher opened the door.",
+      "Confidence takes time to build."
+    ],
+    "how_to_use": {
+      "en": "Use a noun to name the person, place, thing, idea or activity you are talking about.",
+      "pt": "Use um substantivo para nomear a pessoa, o lugar, a coisa, a ideia ou a atividade de que você está falando.",
+      "ro": "Folosește un substantiv pentru a denumi persoana, locul, lucrul, ideea sau activitatea despre care vorbești."
+    },
+    "common_mistakes": {
+      "en": "Do not confuse countable and uncountable nouns; check singular/plural forms.",
+      "pt": "Não confunda substantivos contáveis e incontáveis; verifique as formas singular e plural.",
+      "ro": "Nu confunda substantivele numărabile cu cele nenumărabile; verifică formele de singular și plural."
+    }
+  },
+  {
+    "id": "verb",
+    "title_en": "Verb",
+    "title_pt": "Verbo",
+    "title_ro": "Verb",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A word that expresses an action, event, or state.",
+      "pt": "Palavra que expressa ação, acontecimento ou estado.",
+      "ro": "Cuvânt care exprimă o acțiune, un eveniment sau o stare."
+    },
+    "examples": [
+      "She works in a hotel.",
+      "They are tired."
+    ],
+    "how_to_use": {
+      "en": "Use a verb to express an action, event or state. Check its tense and the subject before speaking.",
+      "pt": "Use um verbo para expressar uma ação, acontecimento ou estado. Verifique o tempo verbal e o sujeito antes de falar.",
+      "ro": "Folosește un verb pentru a exprima o acțiune, un eveniment sau o stare. Verifică timpul verbal și subiectul înainte de a vorbi."
+    },
+    "common_mistakes": {
+      "en": "Do not forget subject–verb agreement or the correct tense.",
+      "pt": "Não se esqueça da concordância entre sujeito e verbo nem do tempo verbal correto.",
+      "ro": "Nu uita de acordul dintre subiect și verb și de timpul verbal corect."
+    }
+  },
+  {
+    "id": "adjective",
+    "title_en": "Adjective",
+    "title_pt": "Adjetivo",
+    "title_ro": "Adjectiv",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A word that describes a noun or pronoun.",
+      "pt": "Palavra que descreve um substantivo ou pronome.",
+      "ro": "Cuvânt care descrie un substantiv sau pronume."
+    },
+    "examples": [
+      "She has a small apartment.",
+      "The lesson is useful."
+    ],
+    "how_to_use": {
+      "en": "Put an adjective before a noun or after a linking verb to describe the noun or subject.",
+      "pt": "Coloque um adjetivo antes de um substantivo ou depois de um verbo de ligação para descrever o substantivo ou o sujeito.",
+      "ro": "Pune un adjectiv înaintea unui substantiv sau după un verb copulativ pentru a descrie substantivul sau subiectul."
+    },
+    "common_mistakes": {
+      "en": "Do not use an adjective where an adverb is required.",
+      "pt": "Não use um adjetivo quando a frase exigir um advérbio.",
+      "ro": "Nu folosi un adjectiv atunci când este necesar un adverb."
+    }
+  },
+  {
+    "id": "adverb",
+    "title_en": "Adverb",
+    "title_pt": "Advérbio",
+    "title_ro": "Adverb",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A word that modifies a verb, adjective, adverb, or whole clause.",
+      "pt": "Palavra que modifica um verbo, adjetivo, advérbio ou uma oração.",
+      "ro": "Cuvânt care modifică un verb, adjectiv, adverb sau o propoziție."
+    },
+    "examples": [
+      "He speaks slowly.",
+      "It is extremely useful."
+    ],
+    "how_to_use": {
+      "en": "Use an adverb to add information about how, when, where or how often something happens.",
+      "pt": "Use um advérbio para acrescentar informações sobre como, quando, onde ou com que frequência algo acontece.",
+      "ro": "Folosește un adverb pentru a adăuga informații despre cum, când, unde sau cât de des se întâmplă ceva."
+    },
+    "common_mistakes": {
+      "en": "Check its position and do not use an adjective form by mistake.",
+      "pt": "Verifique a posição do advérbio e não use por engano a forma de adjetivo.",
+      "ro": "Verifică poziția adverbului și nu folosi din greșeală forma de adjectiv."
+    }
+  },
+  {
+    "id": "pronoun",
+    "title_en": "Pronoun",
+    "title_pt": "Pronome",
+    "title_ro": "Pronume",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A word used instead of a noun or noun phrase.",
+      "pt": "Palavra usada no lugar de um substantivo ou expressão nominal.",
+      "ro": "Cuvânt folosit în locul unui substantiv sau grup nominal."
+    },
+    "examples": [
+      "Maria is here. She is waiting.",
+      "I called them yesterday."
+    ],
+    "how_to_use": {
+      "en": "Use a pronoun instead of repeating a noun when the reference is clear.",
+      "pt": "Use um pronome no lugar de repetir um substantivo quando a referência estiver clara.",
+      "ro": "Folosește un pronume în loc să repeți un substantiv atunci când referința este clară."
+    },
+    "common_mistakes": {
+      "en": "Make sure the pronoun clearly refers to the intended noun.",
+      "pt": "Certifique-se de que o pronome se refere claramente ao substantivo pretendido.",
+      "ro": "Asigură-te că pronumele se referă clar la substantivul dorit."
+    }
+  },
+  {
+    "id": "determiner",
+    "title_en": "Determiner",
+    "title_pt": "Determinante",
+    "title_ro": "Determinant",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A word before a noun that helps show reference, quantity, or possession.",
+      "pt": "Palavra antes de um substantivo que indica referência, quantidade ou posse.",
+      "ro": "Cuvânt înaintea unui substantiv care indică referința, cantitatea sau posesia."
+    },
+    "examples": [
+      "This book is mine.",
+      "Many students arrived."
+    ],
+    "how_to_use": {
+      "en": "Use a determiner before a noun to show which one, whose one, how many or how much.",
+      "pt": "Use um determinante antes de um substantivo para indicar qual, de quem, quantos ou quanto.",
+      "ro": "Folosește un determinant înaintea unui substantiv pentru a arăta care, al cui, câți sau cât."
+    },
+    "common_mistakes": {
+      "en": "Do not combine determiners in impossible combinations.",
+      "pt": "Não combine determinantes em combinações incorretas.",
+      "ro": "Nu combina determinanți în combinații incorecte."
+    }
+  },
+  {
+    "id": "article",
+    "title_en": "Article",
+    "title_pt": "Artigo",
+    "title_ro": "Articol",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A word such as a, an, or the that helps identify a noun.",
+      "pt": "Palavra como a, an ou the que ajuda a identificar um substantivo.",
+      "ro": "Cuvânt precum a, an sau the care ajută la identificarea unui substantiv."
+    },
+    "examples": [
+      "I saw a dog.",
+      "The dog was friendly."
+    ],
+    "how_to_use": {
+      "en": "Use a/an for a non-specific singular countable noun and the when the listener can identify the noun.",
+      "pt": "Use a/an com um substantivo contável singular não específico e the quando o ouvinte consegue identificar o substantivo.",
+      "ro": "Folosește a/an cu un substantiv numărabil singular nespecific și the atunci când ascultătorul poate identifica substantivul."
+    },
+    "common_mistakes": {
+      "en": "Do not add a/an to plural or uncountable nouns.",
+      "pt": "Não use a/an com substantivos plurais ou incontáveis.",
+      "ro": "Nu folosi a/an cu substantive la plural sau nenumărabile."
+    }
+  },
+  {
+    "id": "preposition",
+    "title_en": "Preposition",
+    "title_pt": "Preposição",
+    "title_ro": "Prepoziție",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A word that shows a relationship such as place, time, direction, or connection.",
+      "pt": "Palavra que mostra uma relação de lugar, tempo, direção ou conexão.",
+      "ro": "Cuvânt care arată o relație de loc, timp, direcție sau conexiune."
+    },
+    "examples": [
+      "The keys are on the table.",
+      "We arrived after lunch."
+    ],
+    "how_to_use": {
+      "en": "Use a preposition to connect a noun or pronoun to another part of the sentence, often for time or place.",
+      "pt": "Use uma preposição para ligar um substantivo ou pronome a outra parte da frase, geralmente indicando tempo ou lugar.",
+      "ro": "Folosește o prepoziție pentru a lega un substantiv sau pronume de o altă parte a propoziției, adesea pentru timp sau loc."
+    },
+    "common_mistakes": {
+      "en": "Avoid translating prepositions word-for-word from Portuguese or Romanian.",
+      "pt": "Evite traduzir preposições palavra por palavra do português ou do romeno.",
+      "ro": "Evită traducerea prepozițiilor cuvânt cu cuvânt din portugheză sau română."
+    }
+  },
+  {
+    "id": "conjunction",
+    "title_en": "Conjunction",
+    "title_pt": "Conjunção",
+    "title_ro": "Conjuncție",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A word that connects words, phrases, or clauses.",
+      "pt": "Palavra que conecta palavras, expressões ou orações.",
+      "ro": "Cuvânt care leagă cuvinte, grupuri de cuvinte sau propoziții."
+    },
+    "examples": [
+      "I stayed because it was raining.",
+      "Call me when you arrive."
+    ],
+    "how_to_use": {
+      "en": "Use a conjunction to connect words, phrases or clauses and show their relationship.",
+      "pt": "Use uma conjunção para ligar palavras, expressões ou orações e mostrar a relação entre elas.",
+      "ro": "Folosește o conjuncție pentru a lega cuvinte, expresii sau propoziții și pentru a arăta relația dintre ele."
+    },
+    "common_mistakes": {
+      "en": "Do not join clauses without checking the logical relationship.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "auxiliary",
+    "title_en": "Auxiliary verb",
+    "title_pt": "Verbo auxiliar",
+    "title_ro": "Verb auxiliar",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A verb used with another verb to form tense, questions, negatives, or emphasis.",
+      "pt": "Verbo usado com outro verbo para formar tempos, perguntas, negativas ou ênfase.",
+      "ro": "Verb folosit cu alt verb pentru timpuri, întrebări, negații sau accent."
+    },
+    "examples": [
+      "Do you work here?",
+      "She has finished."
+    ],
+    "how_to_use": {
+      "en": "Use an auxiliary to build questions, negatives, tenses and emphasis.",
+      "pt": "Use um verbo auxiliar para formar perguntas, negativas, tempos verbais e estruturas de ênfase.",
+      "ro": "Folosește un verb auxiliar pentru a forma întrebări, negații, timpuri verbale și structuri de accentuare."
+    },
+    "common_mistakes": {
+      "en": "Do not use do/does/did together with an already conjugated main verb.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "modal",
+    "title_en": "Modal verb",
+    "title_pt": "Verbo modal",
+    "title_ro": "Verb modal",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A verb such as can, should, or might used for ability, advice, possibility, permission, or obligation.",
+      "pt": "Verbo como can, should ou might usado para capacidade, conselho, possibilidade, permissão ou obrigação.",
+      "ro": "Verb precum can, should sau might folosit pentru abilitate, sfat, posibilitate, permisiune sau obligație."
+    },
+    "examples": [
+      "You should call him.",
+      "It might rain."
+    ],
+    "how_to_use": {
+      "en": "Use a modal before the base verb to express ability, possibility, permission, obligation or deduction.",
+      "pt": "Use um modal antes do verbo na forma base para expressar capacidade, possibilidade, permissão, obrigação ou dedução.",
+      "ro": "Folosește un verb modal înaintea verbului la forma de bază pentru a exprima abilitate, posibilitate, permisiune, obligație sau deducție."
+    },
+    "common_mistakes": {
+      "en": "Do not add to after most modals; use the base form: can go, must leave.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "phrasal-verb",
+    "title_en": "Phrasal verb",
+    "title_pt": "Phrasal verb",
+    "title_ro": "Verb frazal",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A verb combined with an adverb or preposition to create a meaning that may differ from the base verb.",
+      "pt": "Verbo combinado com advérbio ou preposição, criando um significado que pode ser diferente do verbo base.",
+      "ro": "Verb combinat cu un adverb sau o prepoziție, creând un sens care poate diferi de verbul de bază."
+    },
+    "examples": [
+      "Please turn off the light.",
+      "I ran into an old friend."
+    ],
+    "how_to_use": {
+      "en": "Use Phrasal verb in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Phrasal verb no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Verb frazal în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "collocation",
+    "title_en": "Collocation",
+    "title_pt": "Collocation",
+    "title_ro": "Colocație",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A combination of words that commonly occur together.",
+      "pt": "Uma combinação de palavras que ocorre com frequência.",
+      "ro": "O combinație de cuvinte care apare frecvent împreună."
+    },
+    "examples": [
+      "make a decision",
+      "heavy rain"
+    ],
+    "how_to_use": {
+      "en": "Use Collocation in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Collocation no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Colocație în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "clause",
+    "title_en": "Clause",
+    "title_pt": "Oração",
+    "title_ro": "Propoziție / subordonată",
+    "level": "B1",
+    "category": "grammar",
+    "definition": {
+      "en": "A group of words containing a subject and a verb.",
+      "pt": "Grupo de palavras que contém sujeito e verbo.",
+      "ro": "Grup de cuvinte care conține un subiect și un verb."
+    },
+    "examples": [
+      "because she was late",
+      "I called him"
+    ],
+    "how_to_use": {
+      "en": "Use Clause in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Oração no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Propoziție / subordonată în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "relative-clause",
+    "title_en": "Relative clause",
+    "title_pt": "Oração relativa",
+    "title_ro": "Propoziție relativă",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A clause that gives information about a noun, often introduced by who, which, that, or whose.",
+      "pt": "Oração que fornece informação sobre um substantivo, geralmente introduzida por who, which, that ou whose.",
+      "ro": "Propoziție care oferă informații despre un substantiv, adesea introdusă prin who, which, that sau whose."
+    },
+    "examples": [
+      "The woman who called is my manager.",
+      "This is the book that I bought."
+    ],
+    "how_to_use": {
+      "en": "Use Relative clause in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Oração relativa no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Propoziție relativă în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "gerund-infinitive",
+    "title_en": "Gerund and infinitive",
+    "title_pt": "Gerúndio e infinitivo",
+    "title_ro": "Gerunziu și infinitiv",
+    "level": "B1",
+    "category": "grammar",
+    "definition": {
+      "en": "Verb forms used as nouns or after particular verbs, adjectives, and structures.",
+      "pt": "Formas verbais usadas como substantivos ou depois de certos verbos, adjetivos e estruturas.",
+      "ro": "Forme verbale folosite ca substantive sau după anumite verbe, adjective și structuri."
+    },
+    "examples": [
+      "I enjoy reading.",
+      "She decided to leave."
+    ],
+    "how_to_use": {
+      "en": "Use Gerund and infinitive in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Gerúndio e infinitivo no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Gerunziu și infinitiv în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "passive",
+    "title_en": "Passive voice",
+    "title_pt": "Voz passiva",
+    "title_ro": "Vocea pasivă",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A structure that focuses on the action or receiver rather than the person doing it.",
+      "pt": "Estrutura que foca na ação ou no receptor, e não em quem a realiza.",
+      "ro": "Structură care se concentrează pe acțiune sau receptor, nu pe persoana care o face."
+    },
+    "examples": [
+      "The report was published yesterday.",
+      "The room is cleaned every day."
+    ],
+    "how_to_use": {
+      "en": "Use Passive voice in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Voz passiva no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Vocea pasivă în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "conditional",
+    "title_en": "Conditional",
+    "title_pt": "Condicional",
+    "title_ro": "Condițional",
+    "level": "B1",
+    "category": "grammar",
+    "definition": {
+      "en": "A structure used to talk about conditions and their possible, likely, or imaginary results.",
+      "pt": "Estrutura usada para falar de condições e seus resultados possíveis, prováveis ou imaginários.",
+      "ro": "Structură folosită pentru a vorbi despre condiții și rezultatele lor posibile, probabile sau imaginare."
+    },
+    "examples": [
+      "If I have time, I will call you.",
+      "If I had more time, I would travel."
+    ],
+    "how_to_use": {
+      "en": "Use Conditional in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Condicional no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Condițional în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "reported-speech",
+    "title_en": "Reported speech",
+    "title_pt": "Discurso indireto",
+    "title_ro": "Vorbire indirectă",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A way of reporting what someone said without quoting their exact words.",
+      "pt": "Forma de relatar o que alguém disse sem citar exatamente suas palavras.",
+      "ro": "Mod de a relata ceea ce a spus cineva fără a cita exact cuvintele."
+    },
+    "examples": [
+      "She said she was tired.",
+      "He told me he needed help."
+    ],
+    "how_to_use": {
+      "en": "Use Reported speech in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Discurso indireto no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Vorbire indirectă în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "inversion",
+    "title_en": "Inversion",
+    "title_pt": "Inversão",
+    "title_ro": "Inversiune",
+    "level": "C1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A structure in which the normal subject–verb order changes, often for emphasis or formal style.",
+      "pt": "Estrutura em que a ordem normal sujeito–verbo muda, geralmente para ênfase ou estilo formal.",
+      "ro": "Structură în care ordinea normală subiect–verb se schimbă, adesea pentru accent sau stil formal."
+    },
+    "examples": [
+      "Never have I seen such a view.",
+      "Only then did he understand."
+    ],
+    "how_to_use": {
+      "en": "Use Inversion in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Inversão no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Inversiune în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "cleft",
+    "title_en": "Cleft sentence",
+    "title_pt": "Frase clivada",
+    "title_ro": "Propoziție emfatică",
+    "level": "C1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A structure used to emphasize one part of a sentence by dividing information into two clauses.",
+      "pt": "Estrutura usada para dar ênfase a uma parte da frase dividindo a informação em duas orações.",
+      "ro": "Structură folosită pentru a accentua o parte a propoziției prin împărțirea informației în două propoziții."
+    },
+    "examples": [
+      "It was Maria who called.",
+      "What I need is more time."
+    ],
+    "how_to_use": {
+      "en": "Use Cleft sentence in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Frase clivada no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Propoziție emfatică în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "hedging",
+    "title_en": "Hedging",
+    "title_pt": "Atenuação",
+    "title_ro": "Atenuare",
+    "level": "C1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Language used to make a statement less absolute, more cautious, or appropriately tentative.",
+      "pt": "Linguagem usada para tornar uma afirmação menos absoluta, mais cautelosa ou provisória.",
+      "ro": "Limbaj folosit pentru a face o afirmație mai puțin absolută, mai prudentă sau provizorie."
+    },
+    "examples": [
+      "This may suggest a problem.",
+      "It appears to be effective."
+    ],
+    "how_to_use": {
+      "en": "Use Hedging in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Atenuação no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Atenuare în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "nominalisation",
+    "title_en": "Nominalisation",
+    "title_pt": "Nominalização",
+    "title_ro": "Nominalizare",
+    "level": "C1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Changing a verb or adjective into a noun, often to create a more formal or abstract style.",
+      "pt": "Transformar um verbo ou adjetivo em substantivo, geralmente para criar um estilo mais formal ou abstrato.",
+      "ro": "Transformarea unui verb sau adjectiv într-un substantiv, adesea pentru un stil mai formal sau abstract."
+    },
+    "examples": [
+      "decide → decision",
+      "accurate → accuracy"
+    ],
+    "how_to_use": {
+      "en": "Use Nominalisation in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Nominalização no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Nominalizare în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "present-simple",
+    "title_en": "Present simple",
+    "title_pt": "Presente simples",
+    "title_ro": "Prezent simplu",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A tense commonly used for routines, facts, habits, and repeated situations.",
+      "pt": "Tempo usado para rotinas, fatos, hábitos e situações repetidas.",
+      "ro": "Timp folosit pentru rutine, fapte, obiceiuri și situații repetate."
+    },
+    "examples": [
+      "I work on Mondays.",
+      "Water boils at 100°C."
+    ],
+    "how_to_use": {
+      "en": "Use Present simple in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Presente simples no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Prezent simplu în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "present-continuous",
+    "title_en": "Present continuous",
+    "title_pt": "Presente contínuo",
+    "title_ro": "Prezent continuu",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A form used for actions happening now or around the present period.",
+      "pt": "Forma usada para ações acontecendo agora ou neste período.",
+      "ro": "Formă folosită pentru acțiuni care au loc acum sau în perioada prezentă."
+    },
+    "examples": [
+      "I am studying now.",
+      "She is working from home this week."
+    ],
+    "how_to_use": {
+      "en": "Use Present continuous in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Presente contínuo no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Prezent continuu în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "past-simple",
+    "title_en": "Past simple",
+    "title_pt": "Passado simples",
+    "title_ro": "Past simplu",
+    "level": "A1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A tense used for completed past actions or events.",
+      "pt": "Tempo usado para ações ou eventos concluídos no passado.",
+      "ro": "Timp folosit pentru acțiuni sau evenimente încheiate în trecut."
+    },
+    "examples": [
+      "We visited Bucharest last year.",
+      "He called me yesterday."
+    ],
+    "how_to_use": {
+      "en": "Use Past simple in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Passado simples no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Past simplu în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "past-continuous",
+    "title_en": "Past continuous",
+    "title_pt": "Passado contínuo",
+    "title_ro": "Past continuu",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A form used for an action in progress at a particular time in the past.",
+      "pt": "Forma usada para uma ação em andamento em determinado momento do passado.",
+      "ro": "Formă folosită pentru o acțiune în desfășurare la un moment din trecut."
+    },
+    "examples": [
+      "I was cooking when she arrived.",
+      "They were talking at eight."
+    ],
+    "how_to_use": {
+      "en": "Use Past continuous in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Passado contínuo no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Past continuu în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "present-perfect",
+    "title_en": "Present perfect",
+    "title_pt": "Present perfect",
+    "title_ro": "Perfect compus",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A form linking a past action or experience to the present.",
+      "pt": "Forma que liga uma ação ou experiência passada ao presente.",
+      "ro": "Formă care leagă o acțiune sau experiență trecută de prezent."
+    },
+    "examples": [
+      "I have visited Romania.",
+      "She has just finished."
+    ],
+    "how_to_use": {
+      "en": "Use Present perfect in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Present perfect no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Perfect compus în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "past-perfect",
+    "title_en": "Past perfect",
+    "title_pt": "Past perfect",
+    "title_ro": "Mai-mult-ca-perfect",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A form used for an action that happened before another past event.",
+      "pt": "Forma usada para uma ação que aconteceu antes de outro evento passado.",
+      "ro": "Formă folosită pentru o acțiune care a avut loc înaintea altui eveniment trecut."
+    },
+    "examples": [
+      "She had left before I arrived.",
+      "They had already eaten."
+    ],
+    "how_to_use": {
+      "en": "Use Past perfect in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Past perfect no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Mai-mult-ca-perfect în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "future-will",
+    "title_en": "Future with will",
+    "title_pt": "Futuro com will",
+    "title_ro": "Viitor cu will",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A future form often used for predictions, decisions made at the moment, and promises.",
+      "pt": "Forma de futuro usada para previsões, decisões tomadas no momento e promessas.",
+      "ro": "Formă de viitor folosită pentru predicții, decizii luate pe loc și promisiuni."
+    },
+    "examples": [
+      "I will call you tonight.",
+      "It will be fine."
+    ],
+    "how_to_use": {
+      "en": "Use Future with will in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Futuro com will no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Viitor cu will în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "going-to",
+    "title_en": "Be going to",
+    "title_pt": "Be going to",
+    "title_ro": "Be going to",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A future form used especially for plans and predictions based on present evidence.",
+      "pt": "Forma de futuro usada especialmente para planos e previsões baseadas em evidências presentes.",
+      "ro": "Formă de viitor folosită mai ales pentru planuri și predicții bazate pe dovezi prezente."
+    },
+    "examples": [
+      "We are going to travel next month.",
+      "Look at those clouds. It is going to rain."
+    ],
+    "how_to_use": {
+      "en": "Use Be going to in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Be going to no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Be going to în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "gerund",
+    "title_en": "Gerund",
+    "title_pt": "Gerúndio",
+    "title_ro": "Gerunziu",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "The -ing form used as a noun or after certain verbs and prepositions.",
+      "pt": "A forma -ing usada como substantivo ou depois de certos verbos e preposições.",
+      "ro": "Forma -ing folosită ca substantiv sau după anumite verbe și prepoziții."
+    },
+    "examples": [
+      "Swimming is good exercise.",
+      "She enjoys reading."
+    ],
+    "how_to_use": {
+      "en": "Use Gerund in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Gerúndio no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Gerunziu în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "infinitive",
+    "title_en": "Infinitive",
+    "title_pt": "Infinitivo",
+    "title_ro": "Infinitiv",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "The base form with to, often used after certain verbs, adjectives, and for purpose.",
+      "pt": "A forma base com to, usada depois de certos verbos, adjetivos e para indicar propósito.",
+      "ro": "Forma de bază cu to, folosită după anumite verbe, adjective și pentru scop."
+    },
+    "examples": [
+      "I want to learn.",
+      "She came to help."
+    ],
+    "how_to_use": {
+      "en": "Use Infinitive in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Infinitivo no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Infinitiv în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "count-noncount",
+    "title_en": "Countable and uncountable nouns",
+    "title_pt": "Substantivos contáveis e incontáveis",
+    "title_ro": "Substantive numărabile și nenumărabile",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Countable nouns can be counted; uncountable nouns are treated as substances, ideas, or categories.",
+      "pt": "Substantivos contáveis podem ser contados; incontáveis são tratados como substâncias, ideias ou categorias.",
+      "ro": "Substantivele numărabile pot fi numărate; cele nenumărabile sunt tratate ca substanțe, idei sau categorii."
+    },
+    "examples": [
+      "two books",
+      "some information"
+    ],
+    "how_to_use": {
+      "en": "Use Countable and uncountable nouns in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Substantivos contáveis e incontáveis no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Substantive numărabile și nenumărabile în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "comparative",
+    "title_en": "Comparatives",
+    "title_pt": "Comparativos",
+    "title_ro": "Comparativ",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A form used to compare two people, things, or situations.",
+      "pt": "Forma usada para comparar duas pessoas, coisas ou situações.",
+      "ro": "Formă folosită pentru a compara două persoane, lucruri sau situații."
+    },
+    "examples": [
+      "This hotel is cheaper than that one.",
+      "She is more confident now."
+    ],
+    "how_to_use": {
+      "en": "Use Comparatives in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Comparativos no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Comparativ în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "superlative",
+    "title_en": "Superlatives",
+    "title_pt": "Superlativos",
+    "title_ro": "Superlativ",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A form used to identify the highest or lowest degree within a group.",
+      "pt": "Forma usada para indicar o grau mais alto ou mais baixo de um grupo.",
+      "ro": "Formă folosită pentru a indica gradul cel mai înalt sau cel mai scăzut dintr-un grup."
+    },
+    "examples": [
+      "This is the best option.",
+      "He is the most experienced person here."
+    ],
+    "how_to_use": {
+      "en": "Use Superlatives in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Superlativos no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Superlativ în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "zero-conditional",
+    "title_en": "Zero conditional",
+    "title_pt": "Condicional zero",
+    "title_ro": "Condițional zero",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A conditional used for general truths, routines, and predictable results.",
+      "pt": "Condicional usado para verdades gerais, rotinas e resultados previsíveis.",
+      "ro": "Condițional folosit pentru adevăruri generale, rutine și rezultate previzibile."
+    },
+    "examples": [
+      "If you heat ice, it melts.",
+      "If I drink coffee late, I sleep badly."
+    ],
+    "how_to_use": {
+      "en": "Use Zero conditional in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Condicional zero no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Condițional zero în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "first-conditional",
+    "title_en": "First conditional",
+    "title_pt": "Primeiro condicional",
+    "title_ro": "Primul condițional",
+    "level": "A2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A conditional used for real or possible future situations and their results.",
+      "pt": "Condicional usado para situações futuras reais ou possíveis e seus resultados.",
+      "ro": "Condițional folosit pentru situații viitoare reale sau posibile și rezultatele lor."
+    },
+    "examples": [
+      "If it rains, we will stay home.",
+      "If you study, you will improve."
+    ],
+    "how_to_use": {
+      "en": "Use First conditional in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Primeiro condicional no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Primul condițional în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "second-conditional",
+    "title_en": "Second conditional",
+    "title_pt": "Segundo condicional",
+    "title_ro": "Al doilea condițional",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A conditional used for hypothetical or unlikely present/future situations.",
+      "pt": "Condicional usado para situações hipotéticas ou improváveis no presente/futuro.",
+      "ro": "Condițional folosit pentru situații ipotetice sau puțin probabile în prezent/viitor."
+    },
+    "examples": [
+      "If I had more time, I would travel.",
+      "What would you do if you won?"
+    ],
+    "how_to_use": {
+      "en": "Use Second conditional in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Segundo condicional no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Al doilea condițional în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "third-conditional",
+    "title_en": "Third conditional",
+    "title_pt": "Terceiro condicional",
+    "title_ro": "Al treilea condițional",
+    "level": "B2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A conditional used to imagine a different past and its hypothetical result.",
+      "pt": "Condicional usado para imaginar um passado diferente e seu resultado hipotético.",
+      "ro": "Condițional folosit pentru a imagina un trecut diferit și rezultatul său ipotetic."
+    },
+    "examples": [
+      "If I had known, I would have called.",
+      "She would have arrived earlier if she had left sooner."
+    ],
+    "how_to_use": {
+      "en": "Use Third conditional in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Terceiro condicional no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Al treilea condițional în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "mixed-conditional",
+    "title_en": "Mixed conditionals",
+    "title_pt": "Condicionais mistos",
+    "title_ro": "Condiționale mixte",
+    "level": "B2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Conditionals that combine different time references between the condition and result.",
+      "pt": "Condicionais que combinam referências temporais diferentes entre condição e resultado.",
+      "ro": "Condiționale care combină referințe de timp diferite între condiție și rezultat."
+    },
+    "examples": [
+      "If I had studied medicine, I would be a doctor now.",
+      "If she were more organized, she would have finished yesterday."
+    ],
+    "how_to_use": {
+      "en": "Use Mixed conditionals in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Condicionais mistos no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Condiționale mixte în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "dependent-preposition",
+    "title_en": "Dependent preposition",
+    "title_pt": "Preposição dependente",
+    "title_ro": "Prepoziție dependentă",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A preposition that normally follows a particular word or expression.",
+      "pt": "Preposição que normalmente segue determinada palavra ou expressão.",
+      "ro": "Prepoziție care urmează în mod normal un anumit cuvânt sau o expresie."
+    },
+    "examples": [
+      "interested in",
+      "responsible for"
+    ],
+    "how_to_use": {
+      "en": "Use Dependent preposition in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Preposição dependente no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Prepoziție dependentă în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "transitive",
+    "title_en": "Transitive verb",
+    "title_pt": "Verbo transitivo",
+    "title_ro": "Verb tranzitiv",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A verb that normally takes a direct object.",
+      "pt": "Verbo que normalmente recebe um objeto direto.",
+      "ro": "Verb care primește în mod normal un complement direct."
+    },
+    "examples": [
+      "She opened the door.",
+      "We discussed the problem."
+    ],
+    "how_to_use": {
+      "en": "Use Transitive verb in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Verbo transitivo no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Verb tranzitiv în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "intransitive",
+    "title_en": "Intransitive verb",
+    "title_pt": "Verbo intransitivo",
+    "title_ro": "Verb intranzitiv",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A verb that does not normally take a direct object.",
+      "pt": "Verbo que normalmente não recebe objeto direto.",
+      "ro": "Verb care în mod normal nu primește complement direct."
+    },
+    "examples": [
+      "The baby slept.",
+      "They arrived late."
+    ],
+    "how_to_use": {
+      "en": "Use Intransitive verb in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Verbo intransitivo no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Verb intranzitiv în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "stative",
+    "title_en": "Stative verb",
+    "title_pt": "Verbo estativo",
+    "title_ro": "Verb stativ",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A verb describing a state, thought, possession, feeling, or perception rather than a dynamic action.",
+      "pt": "Verbo que descreve estado, pensamento, posse, sentimento ou percepção, e não uma ação dinâmica.",
+      "ro": "Verb care descrie o stare, gândire, posesie, sentiment sau percepție, nu o acțiune dinamică."
+    },
+    "examples": [
+      "I know the answer.",
+      "She owns the company."
+    ],
+    "how_to_use": {
+      "en": "Use Stative verb in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Verbo estativo no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Verb stativ în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "causative",
+    "title_en": "Causative structures",
+    "title_pt": "Estruturas causativas",
+    "title_ro": "Structuri cauzative",
+    "level": "B2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Structures used to say that one person arranges for another person to do something.",
+      "pt": "Estruturas usadas para dizer que alguém providencia para que outra pessoa faça algo.",
+      "ro": "Structuri folosite pentru a spune că cineva aranjează ca altcineva să facă ceva."
+    },
+    "examples": [
+      "I had my car repaired.",
+      "She got her hair cut."
+    ],
+    "how_to_use": {
+      "en": "Use Causative structures in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Estruturas causativas no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Structuri cauzative în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "modal-deduction",
+    "title_en": "Modal deduction",
+    "title_pt": "Dedução com modais",
+    "title_ro": "Deducție cu verbe modale",
+    "level": "B2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Using modal verbs to express how certain we are about a present or past situation.",
+      "pt": "Uso de verbos modais para expressar o grau de certeza sobre uma situação presente ou passada.",
+      "ro": "Folosirea verbelor modale pentru a exprima cât de siguri suntem despre o situație prezentă sau trecută."
+    },
+    "examples": [
+      "He must be at work.",
+      "They might have missed the train."
+    ],
+    "how_to_use": {
+      "en": "Use Modal deduction in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Dedução com modais no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Deducție cu verbe modale în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "concession",
+    "title_en": "Concession",
+    "title_pt": "Concessão",
+    "title_ro": "Concesie",
+    "level": "B2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Language that shows contrast despite an opposing fact or condition.",
+      "pt": "Linguagem que mostra contraste apesar de um fato ou condição contrária.",
+      "ro": "Limbaj care arată contrastul în ciuda unui fapt sau a unei condiții opuse."
+    },
+    "examples": [
+      "Although it was late, we continued.",
+      "Despite the rain, they went out."
+    ],
+    "how_to_use": {
+      "en": "Use Concession in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Concessão no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Concesie în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "participle-clause",
+    "title_en": "Participle clause",
+    "title_pt": "Oração reduzida com particípio",
+    "title_ro": "Propoziție participială",
+    "level": "B2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A shortened clause using a present or past participle to connect ideas efficiently.",
+      "pt": "Oração reduzida com particípio presente ou passado para conectar ideias de forma eficiente.",
+      "ro": "Propoziție scurtată cu participiu prezent sau trecut pentru a conecta idei eficient."
+    },
+    "examples": [
+      "Walking home, I called my friend.",
+      "Built in 1900, the house is still in use."
+    ],
+    "how_to_use": {
+      "en": "Use Participle clause in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Oração reduzida com particípio no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Propoziție participială în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "subjunctive",
+    "title_en": "Formal subjunctive",
+    "title_pt": "Subjuntivo formal",
+    "title_ro": "Conjunctiv formal",
+    "level": "C1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A formal structure used especially after demands, recommendations, and expressions of importance.",
+      "pt": "Estrutura formal usada especialmente depois de exigências, recomendações e expressões de importância.",
+      "ro": "Structură formală folosită mai ales după cereri, recomandări și expresii de importanță."
+    },
+    "examples": [
+      "It is essential that he be informed.",
+      "They insisted that she leave."
+    ],
+    "how_to_use": {
+      "en": "Use Formal subjunctive in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Subjuntivo formal no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Conjunctiv formal în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "discourse-marker",
+    "title_en": "Discourse marker",
+    "title_pt": "Marcador discursivo",
+    "title_ro": "Marcator discursiv",
+    "level": "B2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "A word or phrase that organizes ideas and shows relationships between parts of a conversation or text.",
+      "pt": "Palavra ou expressão que organiza ideias e mostra relações entre partes de uma conversa ou texto.",
+      "ro": "Cuvânt sau expresie care organizează ideile și arată relații între părțile unei conversații sau ale unui text."
+    },
+    "examples": [
+      "However, the plan changed.",
+      "In other words, we need more time."
+    ],
+    "how_to_use": {
+      "en": "Use Discourse marker in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Marcador discursivo no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Marcator discursiv în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "register",
+    "title_en": "Register",
+    "title_pt": "Registro de linguagem",
+    "title_ro": "Registru",
+    "level": "B2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "The level and style of language chosen for a particular situation, audience, or purpose.",
+      "pt": "O nível e estilo de linguagem escolhido para determinada situação, público ou finalidade.",
+      "ro": "Nivelul și stilul de limbă ales pentru o anumită situație, audiență sau scop."
+    },
+    "examples": [
+      "Could you help me?",
+      "I would appreciate your assistance."
+    ],
+    "how_to_use": {
+      "en": "Use Register in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Registro de linguagem no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Registru în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "emphasis",
+    "title_en": "Emphasis",
+    "title_pt": "Ênfase",
+    "title_ro": "Accent",
+    "level": "B2",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Language choices used to make one idea especially noticeable or important.",
+      "pt": "Escolhas linguísticas usadas para tornar uma ideia especialmente perceptível ou importante.",
+      "ro": "Alegeri lingvistice folosite pentru a face o idee deosebit de vizibilă sau importantă."
+    },
+    "examples": [
+      "I really do understand.",
+      "What matters is the result."
+    ],
+    "how_to_use": {
+      "en": "Use Emphasis in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Ênfase no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Accent în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "word-formation",
+    "title_en": "Word formation",
+    "title_pt": "Formação de palavras",
+    "title_ro": "Formarea cuvintelor",
+    "level": "B1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Ways of creating related words through prefixes, suffixes, conversion, and other patterns.",
+      "pt": "Formas de criar palavras relacionadas por prefixos, sufixos, conversão e outros padrões.",
+      "ro": "Modalități de a crea cuvinte înrudite prin prefixe, sufixe, conversiune și alte tipare."
+    },
+    "examples": [
+      "happy → unhappy",
+      "decide → decision"
+    ],
+    "how_to_use": {
+      "en": "Use Word formation in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Formação de palavras no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Formarea cuvintelor în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  },
+  {
+    "id": "precision",
+    "title_en": "Precision in vocabulary",
+    "title_pt": "Precisão no vocabulário",
+    "title_ro": "Precizie lexicală",
+    "level": "C1",
+    "category": "grammar & language",
+    "definition": {
+      "en": "Choosing the word that expresses the intended meaning, tone, or degree most accurately.",
+      "pt": "Escolher a palavra que expressa com maior precisão o significado, tom ou grau pretendido.",
+      "ro": "Alegerea cuvântului care exprimă cel mai exact sensul, tonul sau gradul dorit."
+    },
+    "examples": [
+      "The plan is feasible.",
+      "The plan is practical."
+    ],
+    "how_to_use": {
+      "en": "Use Precision in vocabulary in the context described by the definition, paying attention to the example patterns and the level of formality.",
+      "pt": "Use Precisão no vocabulário no contexto explicado na definição, prestando atenção aos padrões dos exemplos e ao nível de formalidade.",
+      "ro": "Folosește Precizie lexicală în contextul explicat în definiție, acordând atenție modelelor din exemple și nivelului de formalitate."
+    },
+    "common_mistakes": {
+      "en": "Check the structure and meaning rather than translating word-for-word.",
+      "pt": "Verifique a estrutura e o significado em vez de traduzir palavra por palavra.",
+      "ro": "Verifică structura și sensul în loc să traduci cuvânt cu cuvânt."
+    }
+  }
+]
