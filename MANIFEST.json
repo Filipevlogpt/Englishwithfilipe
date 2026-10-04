@@ -14,7 +14,7 @@
   "total_questions": 25500,
   "choices_per_question": 5,
   "vocab_unique": 978,
-  "explanations": 23,
+  "explanations": 55,
   "trilingual_entries": 2500,
   "test_design": "Original generated practice inspired by publicly documented Cambridge task types; not official Cambridge material."
 }
