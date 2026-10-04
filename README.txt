@@ -1,43 +1,32 @@
-ENGLISH WITH FILIPE — V4
+# ENGLISHMETFILIPE
 
-Start:
-  python start_server.py
+Complete A1–C1 English-learning platform with vocabulary, 2,550 tests, 25,500 questions, explanations, 2,500 trilingual entries, student accounts and Teacher Lab.
 
-Features:
-- English with Filipe branded interface
-- A1 red / A2 green / B1 yellow / B2 orange / C1 black
-- Separate level libraries
-- 959 vocabulary entries with unique terms across levels
-- 1,000 practice tests (200 per level), 10 questions each, 5 choices
-- Contextual meaning, vocabulary, usage and precision questions
-- Local American-English MP3 audio for normal and slow speed
-- 1,919 MP3 files included in web/audio
-- Student accounts and centralized SQLite results
-- Teacher Lab with student performance and error diagnosis
-- Recommendations grouped by skill/topic for lesson planning
-- Responsive modern UI
-- My Story section for English with Filipe
+## Run
 
-For LAN access, use the server's local network address shown by your terminal.
+```bash
+export EWF_TEACHER_EMAIL="teacher@example.com"
+export EWF_TEACHER_PASSWORD="change-this-password"
+python start_server.py
+```
 
+Open http://localhost:8000
 
-V6 CHANGES
-- 510 tests per level = 2,550 tests total; 10 questions each = 25,500 questions.
-- 5 answer choices per question.
-- AI-generated original content using Cambridge-inspired task types. Not official Cambridge content.
-- New Explanations area.
-- New Portuguese/English/Romanian dictionary area.
-- EN/PT/RO interface selector.
-- Green + yellow visual identity and new Manrope/Nunito typography.
-- Teacher Lab groups errors by skill/topic and recommends what to practice next.
+## Levels
 
-Cambridge basis: task design is inspired by publicly documented Cambridge English formats such as multiple-choice cloze, open cloze, word formation, key word transformations, reading for detail, attitude/purpose and functional language. Official Cambridge pages: https://www.cambridgeenglish.org/exams-and-tests/qualifications/preparation/
+A1 red · A2 green · B1 yellow · B2 orange · C1 black.
 
+## Content
 
-V6 TEST UPDATE
-- 510 tests per level (A1, A2, B1, B2, C1).
-- 25,500 original questions total.
-- 5 answer choices per question.
-- Questions are generated from structured level-specific grammar, vocabulary, reading, usage and transformation templates.
-- Cambridge-inspired task types only; no official Cambridge material is reproduced.
-- Each question stores skill, topic, correct answer and explanation for Teacher Lab diagnostics.
+- 978 vocabulary items.
+- 510 tests per level.
+- 2,550 tests total.
+- 25,500 questions.
+- 5 choices per question.
+- 23 explanations.
+- 2,500 trilingual entries.
+- EN/PT-BR/RO interface.
+- American English audio with browser speech fallback.
+- Teacher Lab diagnostics.
+
+Cambridge formats are used for task-type inspiration only; this project is not official Cambridge material.
